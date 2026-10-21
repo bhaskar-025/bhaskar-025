@@ -56,16 +56,16 @@
 <h3 align="center">Socials</h3>
 <br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/bhaskar-kumar-9675343ab/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="bhaskar21521@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a> &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+  <a href="https://leetcode.com/u/bhaskar_kumar025/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode">
   </a> &nbsp;&nbsp;
-  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
+  <a href="https://www.kaggle.com/bhaskarkumar025">
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle">
   </a>
 </p>
